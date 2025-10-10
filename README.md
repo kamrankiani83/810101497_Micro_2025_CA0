@@ -1,3 +1,4 @@
+<img width="1268" height="688" alt="all leds on" src="https://github.com/user-attachments/assets/9dffa773-6b4f-46b9-a44c-8ab24350734d" />
 # 810101497_Micro_2025_CA0
 CA0_micro kamran kiani 810101497
 ابتدا در نرم افزار keil کد های مورد نیاز را مینویسیم 
